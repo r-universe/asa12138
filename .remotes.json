@@ -1,0 +1,38 @@
+[
+  {
+    "package": "Vennerable",
+    "url": "https://github.com/js229/Vennerable",
+    "via": ["pcutils"],
+    "from": "pcutils"
+  },
+  {
+    "package": "chorddiag",
+    "url": "https://github.com/mattflor/chorddiag",
+    "via": ["pcutils"],
+    "from": "pcutils"
+  },
+  {
+    "package": "ggcor",
+    "url": "https://github.com/Github-Yilei/ggcor",
+    "via": ["pcutils"],
+    "from": "pcutils"
+  },
+  {
+    "package": "ggradar",
+    "url": "https://github.com/ricardo-bion/ggradar",
+    "via": ["pcutils"],
+    "from": "pcutils"
+  },
+  {
+    "package": "ggsankey",
+    "url": "https://github.com/davidsjoberg/ggsankey",
+    "via": ["pcutils"],
+    "from": "pcutils"
+  },
+  {
+    "package": "sankeyD3",
+    "url": "https://github.com/fbreitwieser/sankeyD3",
+    "via": ["pcutils"],
+    "from": "pcutils"
+  }
+]
