@@ -2,30 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "Vennerable"]
-	path = Vennerable
-	url = https://github.com/js229/Vennerable
-	registered = false
-[submodule "chorddiag"]
-	path = chorddiag
-	url = https://github.com/mattflor/chorddiag
-	registered = false
-[submodule "ggcor"]
-	path = ggcor
-	url = https://github.com/Github-Yilei/ggcor
-	registered = false
-[submodule "ggradar"]
-	path = ggradar
-	url = https://github.com/ricardo-bion/ggradar
-	registered = false
-[submodule "ggsankey"]
-	path = ggsankey
-	url = https://github.com/davidsjoberg/ggsankey
-	registered = false
 [submodule "pcutils"]
 	path = pcutils
 	url = https://github.com/asa12138/pcutils
-[submodule "sankeyD3"]
-	path = sankeyD3
-	url = https://github.com/fbreitwieser/sankeyD3
-	registered = false
