@@ -8,6 +8,9 @@
 [submodule "ReporterScore"]
 	path = ReporterScore
 	url = https://github.com/asa12138/reporterscore
+[submodule "pctax"]
+	path = pctax
+	url = https://github.com/asa12138/pctax
 [submodule "pcutils"]
 	path = pcutils
 	url = https://github.com/asa12138/pcutils
